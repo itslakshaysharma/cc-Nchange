@@ -51,7 +51,9 @@ Constraints
     1≤T≤104
 
 1≤N≤103
+
 1≤P≤109
+
 1≤D1<D2<⋯<DN≤109
 the sum of N
 over all test cases does not exceed 105
@@ -63,7 +65,9 @@ Subtask #1 (8 points):
     T≤50
 
 N≤5
+
 P≤20
+
 Di≤20
 for each valid i
 
@@ -80,17 +84,25 @@ Subtask #3 (68 points): original constraints
 Example Input
 
 3
+
 2 10
+
 1 5
+
 2 4
+
 1 5
+
 3 25
+
 3 5 10
 
 Example Output
 
 NO
+
 YES 0 1
+
 YES 2 0 2
 
 Explanation
