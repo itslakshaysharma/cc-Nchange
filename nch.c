@@ -86,7 +86,7 @@ int main(void) {
 	           b[i]=x-1;
 	          // printf("%d\n%d hahah",p,x);
 	       }
-	       else if(a[i]<p&&p%a[i]>1){
+	       else if(a[i]<p){
 	          // printf("c3\n");
 	           x=p/a[i];
 	           p=p-a[i]*x;
